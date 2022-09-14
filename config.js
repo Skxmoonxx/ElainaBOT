@@ -46,10 +46,10 @@ global.ppulsa2 = '085962734007' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282159957081'
-global.nomorown = '6283862006229'
-global.namebot = 'Filo BOT'
-global.nameown = 'ShiroNoMercy'
+global.nomorbot = '6285876807781'
+global.nomorown = '6283104692951'
+global.namebot = 'Yumi BOT'
+global.nameown = 'Robin'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,10 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283862006229', 'ShiroNoMercy', true],
-  ['6283892792369', 'Shirohigebot-Md', true],
-  ['6283819201864', 'Filo BOT', true],
-  ['6283862006229', 'ShiroNoMercy', true] //Ganti jd nomormu sama Namamu
+  ['6283104692951', 'Robin', true],
+  ['6285876807781', 'Yumi BOT', true],
+  ['6283104692951', 'Robin', true],
+  ['6283104692951', 'Robin', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,17 +109,17 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Filo BOT」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Filo BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Filo BOT'
+global.wm = '                「 Yumi BOT」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yumi BOT ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Yumi BOT'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ShiroNoMercy`
-global.author = '                「 Filo BOT あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By Robin`
+global.author = '                「 Yumi BOT あ」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/d28a35a19b11199b0a9c3.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/0b330a27ce364e95040f8.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/200b9dc944752c464147a.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
@@ -189,8 +189,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Filo BOT'
-global.stickauth = `By © ShiroNoMercy`
+global.stickpack = 'Yumi BOT'
+global.stickauth = `By © Robin`
 
 global.multiplier = 38 // The higher, The harder levelup
 
